@@ -141,3 +141,5 @@ Fork and clone this lab. Read the below explanation and run the test suite to ge
 * You'll have to run the tests using the `rspec` command for this lab. Unfortunately the Learn gem cannot yet interact with `gets.chomp` in the command line.
 
 
+
+<a href='https://learn.co/lessons/looping-break-gets' data-visibility='hidden'>Learn.co resource</a>
